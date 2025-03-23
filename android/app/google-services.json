@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420300316866",
+    "project_id": "tournament-app-216b9",
+    "storage_bucket": "tournament-app-216b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420300316866:android:322309ea1b69cdc5749b5b",
+        "android_client_info": {
+          "package_name": "com.dxgorg.bluezone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUV-euCr0Wit8vaZX4PE67qd37dLWe0_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

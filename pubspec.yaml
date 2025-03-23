@@ -1,0 +1,25 @@
+name: tournament_app
+description: "A new Flutter project."
+
+publish_to: 'none' # Keeps the package private
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.7.0 <4.0.0" # Adjust based on your Dart SDK version
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^3.12.1
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
