@@ -1,4 +1,4 @@
-name: tournament_app
+name: bluezone
 description: "A new Flutter project."
 
 publish_to: 'none' # Keeps the package private
